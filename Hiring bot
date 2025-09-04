@@ -5,13 +5,13 @@ A company uses an AI system to filter job applications. It screens résumés and
 
 What’s problematic (the four red flags):
 
-Fairness: The bot rejects more women with career gaps, repeating patterns of past discrimination.
+.Fairness: The bot rejects more women with career gaps, repeating patterns of past discrimination.
 
-Transparency: Applicants don’t know why they were rejected — the AI’s decision process is a black box.
+.Transparency: Applicants don’t know why they were rejected — the AI’s decision process is a black box.
 
-Privacy: Sensitive personal data (like age, gender, career history) may be fed into the model without candidates knowing how it’s used.
+.Privacy: Sensitive personal data (like age, gender, career history) may be fed into the model without candidates knowing how it’s used.
 
-Accountability: Who takes responsibility when the AI unfairly rejects someone — the company, the developer, or the “blameless” algorithm?
+.Accountability: Who takes responsibility when the AI unfairly rejects someone — the company, the developer, or the “blameless” algorithm?
 
 Improvement idea:
 Run regular fairness audits of the model. Clearly communicate to applicants how the AI screens applications (e.g., a transparency report). And most importantly,Add a human review layer so rejections aren’t fully automated.
